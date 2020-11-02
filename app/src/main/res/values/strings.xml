@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">智能花盆豪华版</string>
+    <string name="title">智能花盆检测系统</string>
+    <string name="image">花盆图片</string>
+    <string name="bluetooth">蓝牙连接</string>
+    <string name="welcome">欢迎使用！</string>
+    <string name="temperature">当前温度</string>
+    <string name="humidity">当前湿度</string>
+    <string name="luminance">光照强度</string>
+    <string name="watering">浇水/停止</string>
+    <string name="blackout">遮光/取消</string>
+    <string name="filllight">补光/取消</string>
+    <string name="overheat">温度过高</string>
+    <string name="toolow">温度过低</string>
+    <string name="goback">返回</string>
+    <string name="spin">旋转/停止</string>>
+    <string name="speedup">加速旋转</string>
+    <string name="slowdown">减速旋转</string>
+    <string name="loading">数据载入中...</string>
+    <string name="recognization">植物观察</string>
+    <string name="recognizing">进行识别</string>
+    <string name="description_1">描述</string>
+</resources>
+
+
